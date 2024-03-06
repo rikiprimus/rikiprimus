@@ -1,12 +1,12 @@
 ### Hi there 👋 I'am Ricky
-### Front Web Developer
+### ✨Front Web Developer✨
 
-# ✨ Javascript
+#### Javascript
 
-## Framework & Libraries
-# - Node.JS, Express.JS
-# - React, Next
-# - Bootstrap, Tailwind
+### Framework & Libraries
+#### - Node.JS, Express.JS
+#### - React, Next
+#### - Bootstrap, Tailwind
 <!--
 **rikiprimus/rikiprimus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
