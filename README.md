@@ -1,7 +1,7 @@
 ### Hi there 👋 I'am Ricky
 ### ✨Front Web Developer✨
 
-#### Javascript
+#### 🔭 Javascript Explore
 
 ### Framework & Libraries
 #### - Node.JS, Express.JS
