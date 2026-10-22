@@ -68,6 +68,8 @@ I enjoy figuring out how things work behind the scenes — from APIs and backgro
 
 **🏰 Medieval Fantasy Kingdom — Personal Game Project**
 
+![Uploading image.png…]()
+
 *Inspired by the good old days of playing Social Empires on Facebook.*
 
 I'm building my own medieval fantasy kingdom strategy game, combining kingdom building, army management, and monster fusion mechanics.
