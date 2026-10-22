@@ -68,7 +68,7 @@ I enjoy figuring out how things work behind the scenes — from APIs and backgro
 
 **🏰 Medieval Fantasy Kingdom — Personal Game Project**
 
-![Uploading image.png…]()
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/e841f1ed-df85-48c2-998d-02daed04baec" />
 
 *Inspired by the good old days of playing Social Empires on Facebook.*
 
